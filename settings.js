@@ -28,8 +28,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Hu Tao Bot" //namabot kalian
 global.ownername= "A7 RAFLI" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.myweb ="https://vt.tiktok.com/ZSeABMWuN" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCJdc2QgqY5Lr5dyzEMFLCtA" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/rafli_editz2" //bebas
 global.email = "mraflisetiawan075@gmail.com" //bebas
 global.region = "Indonesia" //bebas
